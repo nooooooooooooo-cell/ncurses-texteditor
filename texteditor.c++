@@ -1,4 +1,4 @@
-#include "editor.h"
+#include "editor-0.2.h"
 
 int main(int argc, char* argv[]){
     try{
